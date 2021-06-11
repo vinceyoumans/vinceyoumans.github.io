@@ -1,0 +1,100 @@
+{
+    "images": [
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Left Front",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Right Front",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Interior",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Right Bumper",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        },
+        {
+            "category": "INT",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        },
+        {
+            "category": "DMG",
+            "url": "images/car1.png",
+            "location": "Rear Windshield",
+            "damageId": ""
+        },
+        {
+            "category": "MISC",
+            "url": "images/car2.png",
+            "location": "Rear Tail lights",
+            "damageId": ""
+        }
+    ]
+}
