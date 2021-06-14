@@ -32,10 +32,16 @@
         },
         {
             "category": "DMG",
-            "url": "assets/img/cars/car07.png",
-            "location": "Rear Windshield",
-            "damageId": "0007"
+            "url": "assets/img/cars/car06.png",
+            "location": "Rear Windshield006",
+            "damageId": "0006"
         },
+        {
+            "category": "DMG",
+            "url": "assets/img/cars/car07.png",
+            "location": "Rear Windshield007",
+            "damageId": "0007"
+        },        
         {
             "category": "MISC",
             "url": "assets/img/cars/car08.png",
