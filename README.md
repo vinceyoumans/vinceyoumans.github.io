@@ -8,6 +8,7 @@ vinceyoumans.github.io
 vinceyoumans.github.io/COX/images.json
 vinceyoumans.github.io/COX/assets/img/cars/car01.png
 
+curl https://vinceyoumans.github.io/COX/assets/json/
 
 
 
