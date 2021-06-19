@@ -12,3 +12,14 @@ curl https://vinceyoumans.github.io/COX/assets/json/
 
 
 
+on netlify
+
+https://epic-poitras-229d10.netlify.app/COX/assets/json/index.json
+
+
+
+https://epic-poitras-229d10.netlify.app/COX/assets/json/images03.json
+
+
+
+
